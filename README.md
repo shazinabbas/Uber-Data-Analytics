@@ -32,7 +32,7 @@ More info about dataset can be found here:
 ## Looker Report: 
 https://lookerstudio.google.com/reporting/c6b251b7-7181-4071-8c8d-c8762d6982a5
 
-<img width="662" alt="Screenshot 2023-06-24 at 9 19 13 PM" src="https://github.com/shazinabbas/Uber-Data-Analytics/assets/92994270/70a5b38a-86ed-4bbb-b445-60643ed42d9c">
+<img align="center" width="662" alt="Screenshot 2023-06-24 at 9 19 13 PM" src="https://github.com/shazinabbas/Uber-Data-Analytics/assets/92994270/70a5b38a-86ed-4bbb-b445-60643ed42d9c" >
 
 
 
