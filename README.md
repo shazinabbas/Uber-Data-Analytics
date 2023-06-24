@@ -25,8 +25,15 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="da.jpeg">
+![Uber Data Model](https://github.com/shazinabbas/Uber-Data-Analytics/assets/92994270/7d405371-1772-47f3-9e13-ae205a9a42a4)
+
 
 
 ## Looker Report: 
 https://lookerstudio.google.com/reporting/c6b251b7-7181-4071-8c8d-c8762d6982a5
+
+<img width="662" alt="Screenshot 2023-06-24 at 9 19 13 PM" src="https://github.com/shazinabbas/Uber-Data-Analytics/assets/92994270/70a5b38a-86ed-4bbb-b445-60643ed42d9c">
+
+
+
+
